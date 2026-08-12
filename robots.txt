@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mhummadmahid-bit.github.io/mahidplaysweb.com/sitemap.xml
